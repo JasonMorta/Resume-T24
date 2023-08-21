@@ -1,0 +1,15 @@
+html {
+    background: url("./assets/Hex_grid.webp");
+    background-blend-mode: overlay;
+    background-color: #f7f7f7;
+}
+
+body {
+    max-width: 1000px;
+    margin: auto;
+}
+
+/* Override p tag margins */
+.content p {
+    margin: 0px !important;
+}
